@@ -1,5 +1,9 @@
 # setup-mac
 Steps to setup personal mac. 
+## Alfred
+1. brew install php # after MAC Monterey, php is not installed by defaut
+2. Install python2.7, click [here](https://www.python.org/downloads/release/python-2718/) 
+3. pip2.7 install pytz # timezone workflow used.
 ## VirutalBox
 ### How to open my ubuntu vm with headless model during start mac
 Refer [here](https://ma.ttias.be/auto-start-virtualbox-vms-headless-after-reboot-on-mac-osx/)
