@@ -1,5 +1,9 @@
 # setup-mac
 Steps to setup personal mac. 
+## Set Sogo as only one Input Sources. 
+在mac最新的macOS系统下，系统偏好→语言与地区→首选语言（选择中文）→成功（搜狗就排第一了）
+当然这里的前提是把系统自带的英文输入法去掉。做法就是，系统偏好设置→输入法→➕号添加随便比如越南文→选中系统自带英文，➖号→成功
+
 ## Alfred
 1. brew install php # after MAC Monterey, php is not installed by defaut
 2. Install python2.7, click [here](https://www.python.org/downloads/release/python-2718/) 
